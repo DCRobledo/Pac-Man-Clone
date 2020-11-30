@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 281f006f8b2be7c48a967ffeddd10ae8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundAudioNormal: {instanceID: 0}
+  - backgroundAudioFrightened: {instanceID: 0}
+  - backgroundAudioPacManDeath: {instanceID: 0}
+  - consumedGhostAudioClip: {instanceID: 0}
+  - mazeBlue: {fileID: 21300000, guid: 1575981848f3b974da47dcbf17e78c49, type: 3}
+  - mazeWhite: {fileID: 21300000, guid: 833323f8f5c674f4d9d7aa06cfdf0788, type: 3}
+  - playerText: {instanceID: 0}
+  - readyText: {instanceID: 0}
+  - highScoreText: {instanceID: 0}
+  - playerOneUp: {instanceID: 0}
+  - playerTwoUp: {instanceID: 0}
+  - playerOneScoreText: {instanceID: 0}
+  - playerTwoScoreText: {instanceID: 0}
+  - playerLives2: {instanceID: 0}
+  - playerLives3: {instanceID: 0}
+  - consumedGhostScoreText: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
